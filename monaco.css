@@ -1,0 +1,8 @@
+.x-tab-panel-body-top {
+    overflow: unset !important;
+}
+
+#modxconsole-codeeditor .x-panel-body {
+    height: auto !important;
+    overflow: unset !important;
+}
